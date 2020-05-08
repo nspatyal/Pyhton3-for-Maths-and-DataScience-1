@@ -1,8 +1,9 @@
 # Pyhton3-for-Maths-and-DataScience-1
 What you'll learn:
+
 	1.	The course provides the entire toolbox you need to become a data scientist
 	
-	2.	Fill up your resume with in demand data science skills: Statistical analysis, Python programming with NumPy, pandas, matplotlib, 		    and Seaborn, Advanced statistical analysis, Tableau, Machine Learning with stats models and scikit-learn, Deep learning with 			       TensorFlow.
+	2.	Fill up your resume with in demand data science skills: Statistical analysis, Python programming with NumPy, pandas,                     matplotlib, and Seaborn, Advanced statistical analysis, Tableau, Machine Learning with stats models and scikit-learn, 			Deep learning with TensorFlow.
 	
 	3.	Impress interviewers by showing an understanding of the data science field.
 	
@@ -18,8 +19,8 @@ What you'll learn:
 	
 	9.	Apply your skills to real-life business cases.
 	
-	10.	Use state-of-the-art Deep Learning frameworks such as Google’s TensorFlowDevelop a business intuition while coding and solving 			    tasks with big data, Unfold the power of deep neural networks.
+	10.	Use state-of-the-art Deep Learning frameworks such as Google’s TensorFlowDevelop a business intuition while coding and 			solving tasks with big data, Unfold the power of deep neural networks.
 	
-	11.	Improve Machine Learning algorithms by studying underfitting, overfitting, training, validation, n-fold cross validation, 				       testing, and how hyperparameters could improve performance.
+	11.	Improve Machine Learning algorithms by studying underfitting, overfitting, training, validation, n-fold cross 				validation, testing, and how hyperparameters could improve performance.
 	
-	12.	Warm up your fingers as you will be eager to apply everything you have learned here to more and more real-life situations
+	12.	Warm up your fingers as you will be eager to apply everything you have learned here to more and more real-life 				situations
